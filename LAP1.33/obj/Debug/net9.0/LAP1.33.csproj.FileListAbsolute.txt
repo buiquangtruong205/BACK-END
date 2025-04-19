@@ -1,0 +1,14 @@
+E:\BachEndDNU\LAP\LAP1.33\bin\Debug\net9.0\LAP1.33.exe
+E:\BachEndDNU\LAP\LAP1.33\bin\Debug\net9.0\LAP1.33.deps.json
+E:\BachEndDNU\LAP\LAP1.33\bin\Debug\net9.0\LAP1.33.runtimeconfig.json
+E:\BachEndDNU\LAP\LAP1.33\bin\Debug\net9.0\LAP1.33.dll
+E:\BachEndDNU\LAP\LAP1.33\bin\Debug\net9.0\LAP1.33.pdb
+E:\BachEndDNU\LAP\LAP1.33\obj\Debug\net9.0\LAP1.33.GeneratedMSBuildEditorConfig.editorconfig
+E:\BachEndDNU\LAP\LAP1.33\obj\Debug\net9.0\LAP1.33.AssemblyInfoInputs.cache
+E:\BachEndDNU\LAP\LAP1.33\obj\Debug\net9.0\LAP1.33.AssemblyInfo.cs
+E:\BachEndDNU\LAP\LAP1.33\obj\Debug\net9.0\LAP1.33.csproj.CoreCompileInputs.cache
+E:\BachEndDNU\LAP\LAP1.33\obj\Debug\net9.0\LAP1.33.dll
+E:\BachEndDNU\LAP\LAP1.33\obj\Debug\net9.0\refint\LAP1.33.dll
+E:\BachEndDNU\LAP\LAP1.33\obj\Debug\net9.0\LAP1.33.pdb
+E:\BachEndDNU\LAP\LAP1.33\obj\Debug\net9.0\LAP1.33.genruntimeconfig.cache
+E:\BachEndDNU\LAP\LAP1.33\obj\Debug\net9.0\ref\LAP1.33.dll
