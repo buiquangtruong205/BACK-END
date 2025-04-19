@@ -1,0 +1,14 @@
+E:\BachEndDNU\LAP\LAP1.1\obj\Debug\net9.0\LAP1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\BachEndDNU\LAP\LAP1.1\obj\Debug\net9.0\LAP1.1.AssemblyInfoInputs.cache
+E:\BachEndDNU\LAP\LAP1.1\obj\Debug\net9.0\LAP1.1.AssemblyInfo.cs
+E:\BachEndDNU\LAP\LAP1.1\obj\Debug\net9.0\LAP1.1.csproj.CoreCompileInputs.cache
+E:\BachEndDNU\LAP\LAP1.1\bin\Debug\net9.0\LAP1.1.exe
+E:\BachEndDNU\LAP\LAP1.1\bin\Debug\net9.0\LAP1.1.deps.json
+E:\BachEndDNU\LAP\LAP1.1\bin\Debug\net9.0\LAP1.1.runtimeconfig.json
+E:\BachEndDNU\LAP\LAP1.1\bin\Debug\net9.0\LAP1.1.dll
+E:\BachEndDNU\LAP\LAP1.1\bin\Debug\net9.0\LAP1.1.pdb
+E:\BachEndDNU\LAP\LAP1.1\obj\Debug\net9.0\LAP1.1.dll
+E:\BachEndDNU\LAP\LAP1.1\obj\Debug\net9.0\refint\LAP1.1.dll
+E:\BachEndDNU\LAP\LAP1.1\obj\Debug\net9.0\LAP1.1.pdb
+E:\BachEndDNU\LAP\LAP1.1\obj\Debug\net9.0\LAP1.1.genruntimeconfig.cache
+E:\BachEndDNU\LAP\LAP1.1\obj\Debug\net9.0\ref\LAP1.1.dll
